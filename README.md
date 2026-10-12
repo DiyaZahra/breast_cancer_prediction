@@ -1,12 +1,12 @@
 # Breast Cancer Tumor Classifier
 
 A machine learning project that predicts whether a breast tumor is **benign** or **malignant** from
-measurements of cell nuclei, with a Streamlit web app for trying the model interactively.
+measurements of cell nuclei, with a Streamlit web app for trying the model interactively. 
+live link : https://breastcancerprediction-nb856xynfasmgqfrwvtthb.streamlit.app/
 
 > **Educational project only — not a medical device.** Predictions must not be used for diagnosis
 > or health decisions.
 >
-> live link : 
 
 ## Dataset
 
